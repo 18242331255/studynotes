@@ -3,4 +3,4 @@
 
 
 
-![image](https://github.com/18242331255/studynotes/blob/main/blogs/picturesimg0.jpg)
+![img0](https://cdn.jsdelivr.net/gh/18242331255/studynotes@main/blogs/picturesimg0.jpg)
