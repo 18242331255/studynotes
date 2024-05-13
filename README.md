@@ -3,4 +3,4 @@
 
 
 
-![img0](blogs/picturesimg0.jpg)
+![image](/blogs/picturesimg0.jpg)
